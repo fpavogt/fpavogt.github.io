@@ -8,7 +8,7 @@
   </head>
   <Scene>
     <!-- Vogt-mod: make the background transparent --> 
-    <!-- <Background skyColor="1 1 1"/> -->
+    <Background skyColor="0.5 0.5 0.5"/>
     <Viewpoint fieldOfView="0.523599" position="-21.8974 10.7479 -24.793" description="Default View" orientation="0.0722883 0.989527 0.124944 -2.48837" centerOfRotation="-4.03336 2.6352 -1.40545"/>
     <NavigationInfo type='"EXAMINE" "FLY" "ANY"' speed="4" headlight="true"/>
     <DirectionalLight ambientIntensity="1" intensity="0" color="1 1 1"/>
