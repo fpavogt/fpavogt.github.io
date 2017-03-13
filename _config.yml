@@ -11,12 +11,13 @@ encoding: utf-8
 #title: 
 email: frederic.vogt@alumni.anu.edu.au
 description: > # this means to ignore newlines until "baseurl:"
-  Personal webpages of Dr. Fr&#233d&#233ric P.A. Vogt, observational astronomer and astrophysicist.
+  Personal webpages of Dr. Frédéric P.A. Vogt, observational astronomer and astrophysicist.
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 #twitter_username: 
 github_username:  fpavogt
 skype_username: frederic.vogt
+orcid_id: http://orcid.org/0000-0002-9665-2788
 
 # Build settings
 markdown: kramdown
