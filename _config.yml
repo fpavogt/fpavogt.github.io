@@ -17,7 +17,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 #twitter_username: 
 github_username:  fpavogt
 skype_username: frederic.vogt
-orcid_id: http://orcid.org/0000-0002-9665-2788
+orcid_id: orcid.org/0000-0002-9665-2788
 
 # Build settings
 markdown: kramdown
