@@ -143,6 +143,7 @@ hr {
 	padding: 0px 0px 0px 0px;
 	list-style: none;
 	line-height: normal;
+	display: inline-block;
 }
 
 #menu li
