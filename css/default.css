@@ -86,7 +86,7 @@ hr {
 /** HEADER */
 
 #header {
-	overflow: visible;
+	overflow: hidden;
 	height: 150px;
 	background: #000000 url(images/img01.png) repeat;
 }
